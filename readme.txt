@@ -6,3 +6,4 @@ My boos still prefers SVN
 push remote 1
 dev brance update And edit feature1
 add merge
+master need fix BUG
